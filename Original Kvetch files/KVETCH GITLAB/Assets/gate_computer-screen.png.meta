@@ -1,0 +1,485 @@
+fileFormatVersion: 2
+guid: 00ef3494546304176962fd4b5f93ab18
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2116386029919876436
+    second: gate_computer-screen_0
+  - first:
+      213: -1427987497787389544
+    second: gate_computer-screen_1
+  - first:
+      213: -1873353837142711373
+    second: gate_computer-screen_2
+  - first:
+      213: -883034333437417913
+    second: gate_computer-screen_3
+  - first:
+      213: -3687033795456363015
+    second: gate_computer-screen_4
+  - first:
+      213: -2270437534558415011
+    second: gate_computer-screen_5
+  - first:
+      213: 6953042334814967864
+    second: gate_computer-screen_6
+  - first:
+      213: 3956546716601013782
+    second: gate_computer-screen_7
+  - first:
+      213: 856187727435680846
+    second: gate_computer-screen_8
+  - first:
+      213: 2103152880904764316
+    second: gate_computer-screen_9
+  - first:
+      213: 4318820929759996916
+    second: gate_computer-screen_10
+  - first:
+      213: 7604238719681920103
+    second: gate_computer-screen_11
+  - first:
+      213: 3826351411178216273
+    second: gate_computer-screen_12
+  - first:
+      213: -4596456321777714186
+    second: gate_computer-screen_13
+  - first:
+      213: -1804525128402508862
+    second: gate_computer-screen_14
+  - first:
+      213: -3342864332965875383
+    second: gate_computer-screen_15
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gate_computer-screen_0
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 1535
+        width: 80
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a5becb85c70a4d2da7316f635df9a04
+      internalID: -2116386029919876436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gate_computer-screen_1
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 1535
+        width: 80
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bab431c450cdb4e62a7b4a294672327f
+      internalID: -1427987497787389544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gate_computer-screen_2
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 1535
+        width: 80
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3698539bf8dda4d82bf3daac4770ad89
+      internalID: -1873353837142711373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gate_computer-screen_3
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 1247
+        width: 80
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84cb9d393e6e04613acb65be190d8870
+      internalID: -883034333437417913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gate_computer-screen_4
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 1247
+        width: 80
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8fb75505bed9412bafd524d06c3c1f9
+      internalID: -3687033795456363015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gate_computer-screen_5
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 1247
+        width: 80
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9c6b6a62545145f3b1717b3db4cb17b
+      internalID: -2270437534558415011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gate_computer-screen_6
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 959
+        width: 80
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9558cf1fab0844778f4921fbc9520f8
+      internalID: 6953042334814967864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gate_computer-screen_7
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 959
+        width: 80
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5904ba108e5e04a5498983d164a749a8
+      internalID: 3956546716601013782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gate_computer-screen_8
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 959
+        width: 80
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38d4fdb62d16049279f43bba88e23031
+      internalID: 856187727435680846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gate_computer-screen_9
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 671
+        width: 80
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aeb0601542ed4487858a843b1e4d5a5
+      internalID: 2103152880904764316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gate_computer-screen_10
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 671
+        width: 80
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5783fbb729c7d486c904cb90fdc2b279
+      internalID: 4318820929759996916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gate_computer-screen_11
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 671
+        width: 80
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d298213a9adb34a84b9a91ccc8797bdd
+      internalID: 7604238719681920103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gate_computer-screen_12
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 383
+        width: 80
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd8a0099c09044b1f94ed61425513263
+      internalID: 3826351411178216273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gate_computer-screen_13
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 383
+        width: 80
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 018403dadcda441ed8899c9496070dbd
+      internalID: -4596456321777714186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gate_computer-screen_14
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 383
+        width: 80
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ad54595a07584733b4f2192c5832d96
+      internalID: -1804525128402508862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gate_computer-screen_15
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 95
+        width: 80
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18239ecfd8cc44518b4093deb790ebde
+      internalID: -3342864332965875383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: add5a101c5b214ec68aaabb9cd4dfc32
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

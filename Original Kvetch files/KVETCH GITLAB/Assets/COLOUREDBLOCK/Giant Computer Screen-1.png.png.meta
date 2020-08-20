@@ -1,0 +1,581 @@
+fileFormatVersion: 2
+guid: b47ecdd332ef34089982d0c6898c75db
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 614947250014977509
+    second: Giant Computer Screen-1.png_0
+  - first:
+      213: 2506273102182419037
+    second: Giant Computer Screen-1.png_1
+  - first:
+      213: -3766986771481351802
+    second: Giant Computer Screen-1.png_2
+  - first:
+      213: 815686297182311017
+    second: Giant Computer Screen-1.png_3
+  - first:
+      213: -6290713558088634749
+    second: Giant Computer Screen-1.png_4
+  - first:
+      213: 7831525713135291142
+    second: Giant Computer Screen-1.png_5
+  - first:
+      213: 1320735130983509110
+    second: Giant Computer Screen-1.png_6
+  - first:
+      213: -1040892588536710024
+    second: Giant Computer Screen-1.png_7
+  - first:
+      213: -4513959379581659768
+    second: Giant Computer Screen-1.png_8
+  - first:
+      213: 7588146996665811188
+    second: Giant Computer Screen-1.png_9
+  - first:
+      213: 226417248384257461
+    second: Giant Computer Screen-1.png_10
+  - first:
+      213: 7251354624625041662
+    second: Giant Computer Screen-1.png_11
+  - first:
+      213: -545485031760657784
+    second: Giant Computer Screen-1.png_12
+  - first:
+      213: -8210679406843706906
+    second: Giant Computer Screen-1.png_13
+  - first:
+      213: 1584851142776455463
+    second: Giant Computer Screen-1.png_14
+  - first:
+      213: -7510225329790401037
+    second: Giant Computer Screen-1.png_15
+  - first:
+      213: -499634304260997998
+    second: Giant Computer Screen-1.png_16
+  - first:
+      213: -8265746317986297983
+    second: Giant Computer Screen-1.png_17
+  - first:
+      213: -2362135881194438912
+    second: Giant Computer Screen-1.png_18
+  - first:
+      213: 1023549641600467966
+    second: Giant Computer Screen-1.png_19
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Giant Computer Screen-1.png_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 374
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f71cb7c62d394b52bb3a17c1dc74ba3
+      internalID: 614947250014977509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giant Computer Screen-1.png_1
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 0
+        width: 374
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fbc11e7dfe5e41a9b26112be0562aa2
+      internalID: 2506273102182419037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giant Computer Screen-1.png_2
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 0
+        width: 374
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 215d2214b423844d59195e11c28364a5
+      internalID: -3766986771481351802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giant Computer Screen-1.png_3
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 0
+        width: 374
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ca21fc2190634385aa3724b8d217dbd
+      internalID: 815686297182311017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giant Computer Screen-1.png_4
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 0
+        width: 374
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de76dea0fd7d14a1ebfaba10bccc2cc4
+      internalID: -6290713558088634749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giant Computer Screen-1.png_5
+      rect:
+        serializedVersion: 2
+        x: 1870
+        y: 0
+        width: 374
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9ad4028ba9cd45eb967d74cd5930b09
+      internalID: 7831525713135291142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giant Computer Screen-1.png_6
+      rect:
+        serializedVersion: 2
+        x: 2244
+        y: 0
+        width: 374
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 453584fdfd482499d805a4c6c83eeeb8
+      internalID: 1320735130983509110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giant Computer Screen-1.png_7
+      rect:
+        serializedVersion: 2
+        x: 2618
+        y: 0
+        width: 374
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ff15bbd9217c46e4add0ee7ba0a9ca7
+      internalID: -1040892588536710024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giant Computer Screen-1.png_8
+      rect:
+        serializedVersion: 2
+        x: 2992
+        y: 0
+        width: 374
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 797e60ee8eee7402a9b0e3fad9f74f1d
+      internalID: -4513959379581659768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giant Computer Screen-1.png_9
+      rect:
+        serializedVersion: 2
+        x: 3366
+        y: 0
+        width: 374
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2233fb92d410b4d5c8ac0acc4e29e6a3
+      internalID: 7588146996665811188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giant Computer Screen-1.png_10
+      rect:
+        serializedVersion: 2
+        x: 3740
+        y: 0
+        width: 374
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86e891e51291548a8a472bca7e0a73d6
+      internalID: 226417248384257461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giant Computer Screen-1.png_11
+      rect:
+        serializedVersion: 2
+        x: 4114
+        y: 0
+        width: 374
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38dedd380e8a64bb9b7547c0ccd44393
+      internalID: 7251354624625041662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giant Computer Screen-1.png_12
+      rect:
+        serializedVersion: 2
+        x: 4488
+        y: 0
+        width: 374
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cb6ebdbe36f74e79bb613b836607392
+      internalID: -545485031760657784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giant Computer Screen-1.png_13
+      rect:
+        serializedVersion: 2
+        x: 4862
+        y: 0
+        width: 374
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04327ae89eca440d693024a54a5a0a59
+      internalID: -8210679406843706906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giant Computer Screen-1.png_14
+      rect:
+        serializedVersion: 2
+        x: 5236
+        y: 0
+        width: 374
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38374b2118b034b97ac3cbf20ec75044
+      internalID: 1584851142776455463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giant Computer Screen-1.png_15
+      rect:
+        serializedVersion: 2
+        x: 5610
+        y: 0
+        width: 374
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f963b502a3c974428afc969d1d253756
+      internalID: -7510225329790401037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giant Computer Screen-1.png_16
+      rect:
+        serializedVersion: 2
+        x: 5984
+        y: 0
+        width: 374
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfbc273fe2ec149d18662ca1ff0614fe
+      internalID: -499634304260997998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giant Computer Screen-1.png_17
+      rect:
+        serializedVersion: 2
+        x: 6358
+        y: 0
+        width: 374
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f66d79e11f7ff49e28135a01f92cc767
+      internalID: -8265746317986297983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giant Computer Screen-1.png_18
+      rect:
+        serializedVersion: 2
+        x: 6732
+        y: 0
+        width: 374
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14825e5d91bd8478791282ce85a7984f
+      internalID: -2362135881194438912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giant Computer Screen-1.png_19
+      rect:
+        serializedVersion: 2
+        x: 7106
+        y: 0
+        width: 374
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 333bd49eb0e5841e88dcacde3452ee5e
+      internalID: 1023549641600467966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 79719d142a95a4fa8a85bc0a1cccf127
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
