@@ -8,7 +8,7 @@ This is a 2D platformer game that takes a lot of inspiration of another platform
 - **Game controls:**
 The game controls were designed to be used with a controller but it's still playable on keyboards.
 
-- Controller:
+Controller:
 
 D-Pad Left & Right to move
 
@@ -24,7 +24,7 @@ Right Trigger to activate a special Pushback ability
 
 Special Right button to pause the game
 
-- Keyboard:
+Keyboard:
 
 A & D to move
 
