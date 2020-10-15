@@ -1,14 +1,14 @@
 # Yvette
 
-- Game description:
+- **Game description:**
 
 This is a 2D platformer game that takes a lot of inspiration of another platformer game title Megaman and Megaman X. The game takes place in a futuristic if not dystopian settings, where the player control a female character that'll takes on a varierity of enemies that will attempt to takes her down with guns and all she has is a sword. The game consists of 1 big level that at the end has a special boss enemy for you to fight to finish the game.
 
 
-- Game controls:
+- **Game controls:**
 The game controls were designed to be used with a controller but it's still playable on keyboards.
 
-Controller:
+- Controller:
 
 D-Pad Left & Right to move
 
@@ -24,7 +24,7 @@ Right Trigger to activate a special Pushback ability
 
 Special Right button to pause the game
 
-Keyboard:
+- Keyboard:
 
 A & D to move
 
@@ -40,9 +40,9 @@ Q to activate a special Pushback ability
 
 P to pause the game
 
-- Installation: extract Zip file and play the game with the executable that comes with it. To play test on unreal editor, clone the repository or download it and load the folder up with Unreal
+- **Installation:** extract Zip file and play the game with the executable that comes with it. To play test on unreal editor, clone the repository or download it and load the folder up with Unreal
 
-- Sources:
+- **Sources:**
 
 No external libraries were used
 
