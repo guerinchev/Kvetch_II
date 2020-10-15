@@ -58,14 +58,14 @@ https://vuw-my.sharepoint.com/personal/metuartu_staff_vuw_ac_nz/_layouts/15/oned
 
 - **Game video:**
 
-https://youtu.be/f4wHPOXyHbE - Made by Fabian the Fambian
+https://youtu.be/f4wHPOXyHbE - Made by Fabian the Ambient
 
 - **Code video:**
 
 https://youtu.be/wuGmyCHudsc - Chev the Punk with a happy family
 
-https://www.youtube.com/watch?v=CobB3r5F4lk - Tran Hau Trung Nhan the middle man
+https://www.youtube.com/watch?v=CobB3r5F4lk - Tran Hau Trung Nhan the Middle Man
 
-https://vimeo.com/468446073 - James the mumble rapper
+https://vimeo.com/468446073 - James the Mumble Rapper
 
-
+https://youtu.be/7P-qeG4_oNQ - Fabian the Fambian
