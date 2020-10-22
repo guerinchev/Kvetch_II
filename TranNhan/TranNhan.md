@@ -130,3 +130,5 @@ even if you are the owner, developer of the code it is tiring to go through a me
 ![BadCodeVs](https://github.com/guerinchev/Kvetch_II/blob/master/TranNhan/BadCode.png)
 
 ![GoodCodeVs](https://github.com/guerinchev/Kvetch_II/blob/master/TranNhan/GoodCode.png)
+
+## Video Link: https://youtu.be/fzI9be1E16c 
