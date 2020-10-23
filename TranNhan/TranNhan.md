@@ -13,7 +13,7 @@
   - Movement (Jumping included): all
   - Power ups: all
   - Menus & Pausing & Credits: all
-  - Mapping controls: all
+  - Mapping controls: most
   - HUD: touched
   - Map designing and editing: touched
   - Projectiles: touched
